@@ -1,0 +1,21 @@
+TimingParametersContainer
+=========================
+
+.. currentmodule:: ctapipe.io.containers
+
+.. autoclass:: TimingParametersContainer
+   :show-inheritance:
+
+   .. rubric:: Attributes Summary
+
+   .. autosummary::
+
+      ~TimingParametersContainer.intercept
+      ~TimingParametersContainer.meta
+      ~TimingParametersContainer.slope
+
+   .. rubric:: Attributes Documentation
+
+   .. autoattribute:: intercept
+   .. autoattribute:: meta
+   .. autoattribute:: slope
